@@ -1,0 +1,9 @@
+D:\DOCUMENTS\[SM] - ArcGIS\ArcGIS - Engine\ArcEngine - C#\兰小机\海籍排斥检查\排斥检查01\bin\Debug\排斥检查01.exe
+D:\DOCUMENTS\[SM] - ArcGIS\ArcGIS - Engine\ArcEngine - C#\兰小机\海籍排斥检查\排斥检查01\bin\Debug\排斥检查01.pdb
+D:\DOCUMENTS\[SM] - ArcGIS\ArcGIS - Engine\ArcEngine - C#\兰小机\海籍排斥检查\排斥检查01\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DOCUMENTS\[SM] - ArcGIS\ArcGIS - Engine\ArcEngine - C#\兰小机\海籍排斥检查\排斥检查01\obj\x86\Debug\排斥检查01.MainForm.resources
+D:\DOCUMENTS\[SM] - ArcGIS\ArcGIS - Engine\ArcEngine - C#\兰小机\海籍排斥检查\排斥检查01\obj\x86\Debug\排斥检查01.Properties.Resources.resources
+D:\DOCUMENTS\[SM] - ArcGIS\ArcGIS - Engine\ArcEngine - C#\兰小机\海籍排斥检查\排斥检查01\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DOCUMENTS\[SM] - ArcGIS\ArcGIS - Engine\ArcEngine - C#\兰小机\海籍排斥检查\排斥检查01\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DOCUMENTS\[SM] - ArcGIS\ArcGIS - Engine\ArcEngine - C#\兰小机\海籍排斥检查\排斥检查01\obj\x86\Debug\排斥检查01.exe
+D:\DOCUMENTS\[SM] - ArcGIS\ArcGIS - Engine\ArcEngine - C#\兰小机\海籍排斥检查\排斥检查01\obj\x86\Debug\排斥检查01.pdb
